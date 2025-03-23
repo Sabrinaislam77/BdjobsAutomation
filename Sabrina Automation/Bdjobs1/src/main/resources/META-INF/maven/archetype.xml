@@ -1,0 +1,9 @@
+<archetype>
+  <id>Bdjobs1</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/videocvupload/java/AppTest.java</source>
+  </testSources>
+</archetype>
